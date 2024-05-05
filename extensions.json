@@ -3,154 +3,154 @@
     "id": "Codex",
     "type": "extension",
     "name": "Codex",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more.",
     "url": "https://github.com/LenAnderson/SillyTavern-Codex"
   },
   {
     "id": "CSSSnippets",
     "type": "extension",
     "name": "CSS Snippet Manager",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Adds a UI to manage custom CSS snippets.",
     "url": "https://github.com/LenAnderson/SillyTavern-CssSnippets"
   },
   {
     "id": "CustomCodeLanguages",
     "type": "extension",
     "name": "Custom Code Languages",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Provides slash commands to add custom languages (syntax highlighting) to the codeblocks shown in chat messages.",
     "url": "https://github.com/LenAnderson/SillyTavern-CustomCodeLanguages"
   },
   {
     "id": "CustomTitle",
     "type": "extension",
     "name": "Custom Title",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Add slash command to set a custom title for the SillyTavern tab / window.",
     "url": "https://github.com/LenAnderson/SillyTavern-CustomTitle"
   },
   {
     "id": "DiscordHomeLink",
     "type": "extension",
     "name": "Home Link Button",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "When using the Discord Inspired Theme, click on the SillyTavern logo to go back to the landing page.",
     "url": "https://github.com/LenAnderson/SillyTavern-DiscordHomeLink"
   },
   {
     "id": "Favicon",
     "type": "extension",
     "name": "Favicon",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Custom favicons.",
     "url": "https://github.com/LenAnderson/SillyTavern-Favicon"
   },
   {
     "id": "GetContext",
     "type": "extension",
     "name": "Get ST App-Context",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Access ST App context in STscripts. Open your browser's dev tools (F12) to see what data is available.",
     "url": "https://github.com/LenAnderson/SillyTavern-GetContext"
   },
   {
     "id": "GroupExpressions",
     "type": "extension",
     "name": "Group Expressions",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Enable multiple expression sprites in Group Chats",
     "url": "https://github.com/LenAnderson/SillyTavern-GroupExpressions"
   },
   {
     "id": "InputHistory",
     "type": "extension",
     "name": "Input History",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Use Alt+Up or Alt+Down in the input box to go through your last inputs and /commands.",
     "url": "https://github.com/LenAnderson/SillyTavern-InputHistory"
   },
   {
     "id": "LandingPage",
     "type": "extension",
     "name": "Landing Page",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Customize the ST Landing page.",
     "url": "https://github.com/LenAnderson/SillyTavern-LandingPage"
   },
   {
     "id": "LALib",
     "type": "extension",
     "name": "LALib",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Library of helpful STScript commands for SillyTavern.",
     "url": "https://github.com/LenAnderson/SillyTavern-LALib"
   },
   {
     "id": "MessageActions",
     "type": "extension",
     "name": "Message Actions",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Execute Quick Replies on specific messages.",
     "url": "https://github.com/LenAnderson/SillyTavern-MessageActions"
   },
   {
     "id": "MessageInteractivity",
     "type": "extension",
     "name": "Message Interactivity",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Adds some macros for interacting with messages when they are first rendered.",
     "url": "https://github.com/LenAnderson/SillyTavern-MessageInteractivity"
   },
   {
     "id": "MoreFlexibleContinues",
     "type": "extension",
     "name": "More Flexible Continues",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "More flexibility for continues.",
     "url": "https://github.com/LenAnderson/SillyTavern-MoreFlexibleContinues"
   },
   {
     "id": "NavigateChat",
     "type": "extension",
     "name": "Navigate Chat",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Adds slash commands to help \"replay\" a chat.",
     "url": "https://github.com/LenAnderson/SillyTavern-NavigateChat"
   },
   {
     "id": "QuickBranchSwitch",
     "type": "extension",
     "name": "Quick Branch Switch",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Quickly switch between branches of a conversation.",
     "url": "https://github.com/LenAnderson/SillyTavern-QuickBranchSwitch"
   },
   {
     "id": "RegexSlash",
     "type": "extension",
     "name": "Regex Slash",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Use regular expressions to find-replace or test text with slash commands.",
     "url": "https://github.com/LenAnderson/SillyTavern-RegexSlash"
   },
   {
     "id": "TriggerCards",
     "type": "extension",
     "name": "Trigger Cards",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Displays small interactive portraits of all group chat members on top of the chat input bar.",
     "url": "https://github.com/LenAnderson/SillyTavern-TriggerCards"
   },
   {
     "id": "Variable-Viewer",
     "type": "extension",
     "name": "Variable Viewer",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Displays local and global variables in a window. Helpful while working on ST scripts.",
     "url": "https://github.com/LenAnderson/SillyTavern-Variable-Viewer"
   },
   {
     "id": "VideoBackgrounds",
     "type": "extension",
     "name": "Video Backgrounds",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "A slightly hacky way to use video backgrounds in SillyTavern.",
     "url": "https://github.com/LenAnderson/SillyTavern-VideoBackgrounds"
   },
   {
     "id": "WordFrequency",
     "type": "extension",
     "name": "Word Frequency",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "A nice graph of frequently occuring words in your chat so far.",
     "url": "https://github.com/LenAnderson/SillyTavern-WordFrequency"
   },
   {
     "id": "WorldInfoPresets",
     "type": "extension",
     "name": "WorldInfo Presets",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more",
+    "description": "Presets for multiple active WI books",
     "url": "https://github.com/LenAnderson/SillyTavern-WorldInfoPresets"
   }
 ]
