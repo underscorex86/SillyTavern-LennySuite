@@ -1,5 +1,19 @@
 [
   {
+    "id": "AutoFocus",
+    "type": "extension",
+    "name": "Codex",
+    "description": "Automatically give focus to chat input when starting to type.",
+    "url": "https://github.com/LenAnderson/SillyTavern-AutoFocus"
+  },
+  {
+    "id": "BackupsBrowser",
+    "type": "extension",
+    "name": "Codex",
+    "description": "Browse and restore your chat backups from within SillyTavern.",
+    "url": "https://github.com/LenAnderson/SillyTavern-BackupsBrowser"
+  },  
+  {
     "id": "Codex",
     "type": "extension",
     "name": "Codex",
@@ -77,6 +91,13 @@
     "url": "https://github.com/LenAnderson/SillyTavern-LALib"
   },
   {
+    "id": "LogoutButton",
+    "type": "extension",
+    "name": "LALib",
+    "description": "Adds a logout button to the top menu.",
+    "url": "https://github.com/LenAnderson/SillyTavern-LogoutButton"
+  },
+  {
     "id": "MessageActions",
     "type": "extension",
     "name": "Message Actions",
@@ -117,6 +138,13 @@
     "name": "Regex Slash",
     "description": "Use regular expressions to find-replace or test text with slash commands.",
     "url": "https://github.com/LenAnderson/SillyTavern-RegexSlash"
+  },
+  {
+    "id": "STAHP",
+    "type": "extension",
+    "name": "Regex Slash",
+    "description": "SillyTavern API Host Plugin.",
+    "url": "https://github.com/LenAnderson/SillyTavern-STAHP"
   },
   {
     "id": "TriggerCards",
