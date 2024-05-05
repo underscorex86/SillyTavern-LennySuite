@@ -56,6 +56,13 @@
     "url": "https://github.com/LenAnderson/SillyTavern-DiscordHomeLink"
   },
   {
+    "id": "Export-HTML",
+    "type": "extension",
+    "name": "Export HTML",
+    "description": "Export chat history as an HTML document. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-Export-HTML"
+  },
+  {
     "id": "Favicon",
     "type": "extension",
     "name": "Favicon",
@@ -96,6 +103,13 @@
     "name": "LALib",
     "description": "Library of helpful STScript commands for SillyTavern. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-LALib"
+  },
+  {
+    "id": "LocalStorageHelper",
+    "type": "extension",
+    "name": "Local Storage Helper",
+    "description": "A quick way to export and import your browser's localStorage. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-LocalStorageHelper"
   },
   {
     "id": "LogoutButton",
