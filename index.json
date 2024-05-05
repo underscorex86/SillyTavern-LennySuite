@@ -140,13 +140,6 @@
     "url": "https://github.com/LenAnderson/SillyTavern-RegexSlash"
   },
   {
-    "id": "STAHP",
-    "type": "extension",
-    "name": "STAHP",
-    "description": "SillyTavern API Host Plugin. H A I L Lenny.",
-    "url": "https://github.com/LenAnderson/SillyTavern-STAHP"
-  },
-  {
     "id": "TriggerCards",
     "type": "extension",
     "name": "Trigger Cards",
