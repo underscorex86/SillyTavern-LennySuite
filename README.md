@@ -6,7 +6,7 @@ View the full list of extensions available here: https://lenanderson.github.io/S
 
 All rights to copyrighted works are reserved by Len Anderson. You should gain their permission if you'd like to redistribute these assets outside of SillyTavern's ecosystem. Please refer to the list below.
 
-![alt text]([http://url/to/img.png](https://github.com/underscorex86/SillyTavern-LennySuite/blob/main/assets/TheLennySuite.png)
+![The Lenny Suite](https://github.com/underscorex86/SillyTavern-LennySuite/blob/main/assets/TheLennySuite.png)
 
 # Extensions List
 
