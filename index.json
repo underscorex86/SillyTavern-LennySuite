@@ -2,14 +2,14 @@
   {
     "id": "AutoFocus",
     "type": "extension",
-    "name": "Codex",
+    "name": "AutoFocus",
     "description": "Automatically give focus to chat input when starting to type.",
     "url": "https://github.com/LenAnderson/SillyTavern-AutoFocus"
   },
   {
     "id": "BackupsBrowser",
     "type": "extension",
-    "name": "Codex",
+    "name": "BackupsBrowser",
     "description": "Browse and restore your chat backups from within SillyTavern.",
     "url": "https://github.com/LenAnderson/SillyTavern-BackupsBrowser"
   },  
@@ -93,7 +93,7 @@
   {
     "id": "LogoutButton",
     "type": "extension",
-    "name": "LALib",
+    "name": "LogoutButton",
     "description": "Adds a logout button to the top menu.",
     "url": "https://github.com/LenAnderson/SillyTavern-LogoutButton"
   },
@@ -142,7 +142,7 @@
   {
     "id": "STAHP",
     "type": "extension",
-    "name": "Regex Slash",
+    "name": "STAHP",
     "description": "SillyTavern API Host Plugin.",
     "url": "https://github.com/LenAnderson/SillyTavern-STAHP"
   },
