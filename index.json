@@ -1,5 +1,12 @@
 [
   {
+    "id": "AssetRepoManager",
+    "type": "extension",
+    "name": "Asset Repo Manager",
+    "description": "Manage additional asset repositories.",
+    "url": "https://github.com/LenAnderson/SillyTavern-AssetRepoManager"
+  },
+  {
     "id": "AutoFocus",
     "type": "extension",
     "name": "Auto Focus",
