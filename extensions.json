@@ -1,65 +1,72 @@
 [
   {
+    "id": "AssetRepoManager",
+    "type": "extension",
+    "name": "Asset Repo Manager",
+    "description": "Manage additional asset repositories.",
+    "url": "https://github.com/LenAnderson/SillyTavern-AssetRepoManager"
+  },
+  {
     "id": "AutoFocus",
     "type": "extension",
-    "name": "AutoFocus",
-    "description": "Automatically give focus to chat input when starting to type.",
+    "name": "Auto Focus",
+    "description": "Automatically give focus to chat input when starting to type. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-AutoFocus"
   },
   {
     "id": "BackupsBrowser",
     "type": "extension",
-    "name": "BackupsBrowser",
-    "description": "Browse and restore your chat backups from within SillyTavern.",
+    "name": "Backups Browser",
+    "description": "Browse and restore your chat backups from within SillyTavern. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-BackupsBrowser"
   },  
   {
     "id": "Codex",
     "type": "extension",
     "name": "Codex",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more.",
+    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-Codex"
   },
   {
-    "id": "CSSSnippets",
+    "id": "CssSnippets",
     "type": "extension",
     "name": "CSS Snippet Manager",
-    "description": "Adds a UI to manage custom CSS snippets.",
+    "description": "Adds a UI to manage custom CSS snippets. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-CssSnippets"
   },
   {
     "id": "CustomCodeLanguages",
     "type": "extension",
     "name": "Custom Code Languages",
-    "description": "Provides slash commands to add custom languages (syntax highlighting) to the codeblocks shown in chat messages.",
+    "description": "Provides slash commands to add custom languages (syntax highlighting) to the codeblocks shown in chat messages. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-CustomCodeLanguages"
   },
   {
     "id": "CustomTitle",
     "type": "extension",
     "name": "Custom Title",
-    "description": "Add slash command to set a custom title for the SillyTavern tab / window.",
+    "description": "Add slash command to set a custom title for the SillyTavern tab / window. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-CustomTitle"
   },
   {
     "id": "DiscordHomeLink",
     "type": "extension",
     "name": "Home Link Button",
-    "description": "When using the Discord Inspired Theme, click on the SillyTavern logo to go back to the landing page.",
+    "description": "When using the Discord Inspired Theme, click on the SillyTavern logo to go back to the landing page. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-DiscordHomeLink"
   },
   {
     "id": "Favicon",
     "type": "extension",
     "name": "Favicon",
-    "description": "Custom favicons.",
+    "description": "Custom favicons. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-Favicon"
   },
   {
     "id": "GetContext",
     "type": "extension",
     "name": "Get ST App-Context",
-    "description": "Access ST App context in STscripts. Open your browser's dev tools (F12) to see what data is available.",
+    "description": "Access ST App context in STscripts. Open your browser's dev tools (F12) to see what data is available. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-GetContext"
   },
   {
@@ -73,98 +80,98 @@
     "id": "InputHistory",
     "type": "extension",
     "name": "Input History",
-    "description": "Use Alt+Up or Alt+Down in the input box to go through your last inputs and /commands.",
+    "description": "Use Alt+Up or Alt+Down in the input box to go through your last inputs and /commands. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-InputHistory"
   },
   {
     "id": "LandingPage",
     "type": "extension",
     "name": "Landing Page",
-    "description": "Customize the ST Landing page.",
+    "description": "Customize the ST Landing page. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-LandingPage"
   },
   {
     "id": "LALib",
     "type": "extension",
     "name": "LALib",
-    "description": "Library of helpful STScript commands for SillyTavern.",
+    "description": "Library of helpful STScript commands for SillyTavern. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-LALib"
   },
   {
     "id": "LogoutButton",
     "type": "extension",
     "name": "LogoutButton",
-    "description": "Adds a logout button to the top menu.",
+    "description": "Adds a logout button to the top menu. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-LogoutButton"
   },
   {
     "id": "MessageActions",
     "type": "extension",
     "name": "Message Actions",
-    "description": "Execute Quick Replies on specific messages.",
+    "description": "Execute Quick Replies on specific messages. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-MessageActions"
   },
   {
     "id": "MessageInteractivity",
     "type": "extension",
     "name": "Message Interactivity",
-    "description": "Adds some macros for interacting with messages when they are first rendered.",
+    "description": "Adds some macros for interacting with messages when they are first rendered. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-MessageInteractivity"
   },
   {
     "id": "MoreFlexibleContinues",
     "type": "extension",
     "name": "More Flexible Continues",
-    "description": "More flexibility for continues.",
+    "description": "More flexibility for continues. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-MoreFlexibleContinues"
   },
   {
     "id": "NavigateChat",
     "type": "extension",
     "name": "Navigate Chat",
-    "description": "Adds slash commands to help \"replay\" a chat.",
+    "description": "Adds slash commands to help \"replay\" a chat. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-NavigateChat"
   },
   {
     "id": "QuickBranchSwitch",
     "type": "extension",
     "name": "Quick Branch Switch",
-    "description": "Quickly switch between branches of a conversation.",
+    "description": "Quickly switch between branches of a conversation. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-QuickBranchSwitch"
   },
   {
     "id": "RegexSlash",
     "type": "extension",
     "name": "Regex Slash",
-    "description": "Use regular expressions to find-replace or test text with slash commands.",
+    "description": "Use regular expressions to find-replace or test text with slash commands. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-RegexSlash"
   },
   {
     "id": "TriggerCards",
     "type": "extension",
     "name": "Trigger Cards",
-    "description": "Displays small interactive portraits of all group chat members on top of the chat input bar.",
+    "description": "Displays small interactive portraits of all group chat members on top of the chat input bar. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-TriggerCards"
   },
   {
     "id": "Variable-Viewer",
     "type": "extension",
     "name": "Variable Viewer",
-    "description": "Displays local and global variables in a window. Helpful while working on ST scripts.",
+    "description": "Displays local and global variables in a window. Helpful while working on ST scripts. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-Variable-Viewer"
   },
   {
     "id": "VideoBackgrounds",
     "type": "extension",
     "name": "Video Backgrounds",
-    "description": "A slightly hacky way to use video backgrounds in SillyTavern.",
+    "description": "A slightly hacky way to use video backgrounds in SillyTavern. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-VideoBackgrounds"
   },
   {
     "id": "WordFrequency",
     "type": "extension",
     "name": "Word Frequency",
-    "description": "A nice graph of frequently occuring words in your chat so far.",
+    "description": "A nice graph of frequently occuring words in your chat so far. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-WordFrequency"
   },
   {
