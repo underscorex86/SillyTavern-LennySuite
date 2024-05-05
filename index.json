@@ -2,14 +2,14 @@
   {
     "id": "AutoFocus",
     "type": "extension",
-    "name": "AutoFocus",
+    "name": "Auto Focus",
     "description": "Automatically give focus to chat input when starting to type. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-AutoFocus"
   },
   {
     "id": "BackupsBrowser",
     "type": "extension",
-    "name": "BackupsBrowser",
+    "name": "Backups Browser",
     "description": "Browse and restore your chat backups from within SillyTavern. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-BackupsBrowser"
   },  
@@ -21,7 +21,7 @@
     "url": "https://github.com/LenAnderson/SillyTavern-Codex"
   },
   {
-    "id": "CSSSnippets",
+    "id": "CssSnippets",
     "type": "extension",
     "name": "CSS Snippet Manager",
     "description": "Adds a UI to manage custom CSS snippets. H A I L Lenny.",
