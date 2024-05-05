@@ -4,7 +4,7 @@ Unofficial LennySuite content repository. Use the "Assets" extension in SillyTav
 
 View the full list of extensions available here: https://lenanderson.github.io/SillyTavern/
 
-All rights to copyrighted works are reserved by Len Anderson. You should gain their permission if you'd like to redistribute these assets outside of SillyTavern's ecosystem. Please refer to the list below.
+All rights are reserved by Len Anderson. You should gain their permission if you'd like to redistribute these assets outside of SillyTavern's ecosystem. Please refer to the list below.
 
 ![The Lenny Suite](https://github.com/underscorex86/SillyTavern-LennySuite/blob/main/assets/TheLennySuite.png)
 
