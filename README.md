@@ -13,11 +13,11 @@ All rights to copyrighted works are reserved by Len Anderson. You should gain th
 ## Must-Haves
 ### Variable Viewer
 Lets you view all the variables you set in ST easily by running the `/variableviewer` command
+https://github.com/LenAnderson/SillyTavern-Variable-Viewer
 
 ### Input History 
 Tired of having to type the same things over and over? Just press Alt+up/down to re-enter the last things you've typed!
 https://github.com/LenAnderson/SillyTavern-InputHistory
-https://github.com/LenAnderson/SillyTavern-Variable-Viewer
 
 ### Css Snippet Manager
 Makes managing CSS Snippets so easy!
