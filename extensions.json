@@ -170,7 +170,7 @@
   {
     "id": "Tooltips",
     "type": "extension",
-    "name": "Trigger Cards",
+    "name": "Tooltips",
     "description": "Show tooltips immediately. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-Tooltips"
   },
