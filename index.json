@@ -168,6 +168,13 @@
     "url": "https://github.com/LenAnderson/SillyTavern-TriggerCards"
   },
   {
+    "id": "Tooltips",
+    "type": "extension",
+    "name": "Trigger Cards",
+    "description": "Show tooltips immediately. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-Tooltips"
+  },
+  {
     "id": "Variable-Viewer",
     "type": "extension",
     "name": "Variable Viewer",
