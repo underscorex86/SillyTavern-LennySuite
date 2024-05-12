@@ -13,7 +13,7 @@ All rights are reserved by Len Anderson. You should gain their permission if you
 Paste this URL into your "Download Extensions & Assets" field in your Extensions tab in ST (three cubes icon), for a (usually up to date) list of all the Lenny Suite Extensions. 
 Lenny also has some plugins, which this list does not contain, this is only the Extensions that exist. I always recommend checking out the github page of any extension you intend to use.
 
-![How To]([https://github.com/underscorex86/SillyTavern-LennySuite/blob/main/assets/TheLennySuite.png](https://github.com/underscorex86/SillyTavern-LennySuite/blob/main/assets/HowTo.png))
+![How To](https://github.com/underscorex86/SillyTavern-LennySuite/blob/main/assets/HowTo.png)
 
 # Extensions List
 
