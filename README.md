@@ -96,10 +96,6 @@ https://github.com/LenAnderson/SillyTavern-NavigateChat
 Relies on ST Timelines being installed. As the name says, Quick Branch Switch allows you to quickly swap branches. Can be resource intensive, I recommend only for desktop users.
 https://github.com/LenAnderson/SillyTavern-QuickBranchSwitch
 
-### Regex Slash Commands
-Use regular expressions to find-replace or test text with slash commands!
-https://github.com/LenAnderson/SillyTavern-RegexSlash
-
 ### Swipe Combiner
 Ask the AI to combine the best of contents from multiple swipes into one message!
 https://github.com/LenAnderson/SillyTavern-SwipeCombiner
