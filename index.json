@@ -154,13 +154,6 @@
     "url": "https://github.com/LenAnderson/SillyTavern-QuickBranchSwitch"
   },
   {
-    "id": "RegexSlash",
-    "type": "extension",
-    "name": "Regex Slash",
-    "description": "Use regular expressions to find-replace or test text with slash commands. H A I L Lenny.",
-    "url": "https://github.com/LenAnderson/SillyTavern-RegexSlash"
-  },
-  {
     "id": "TriggerCards",
     "type": "extension",
     "name": "Trigger Cards",
