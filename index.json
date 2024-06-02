@@ -70,6 +70,13 @@
     "url": "https://github.com/LenAnderson/SillyTavern-Favicon"
   },
   {
+    "id": "FileExplorer",
+    "type": "extension",
+    "name": "File Explorer",
+    "description": "File Explorer to browse and pick files from SillyTavern directories. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-FileExplorer"
+  },  
+  {
     "id": "GetContext",
     "type": "extension",
     "name": "Get ST App-Context",
