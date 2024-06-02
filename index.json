@@ -24,7 +24,7 @@
     "id": "Codex",
     "type": "extension",
     "name": "Codex",
-    "description": "Allows highlighting WI entries in Chat, creating clickable maps, and more. H A I L Lenny.",
+    "description": "Requires File Explorer extension and Files plugin. Allows highlighting WI entries in Chat, creating clickable maps, and more. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-Codex"
   },
   {
