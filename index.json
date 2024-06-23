@@ -140,6 +140,13 @@
     "url": "https://github.com/LenAnderson/SillyTavern-MessageInteractivity"
   },
   {
+    "id": "MessageVariables",
+    "type": "extension",
+    "name": "Message Variables",
+    "description": "Adds Variables specific to a message and swipe. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-MessageVariables"
+  },
+  {
     "id": "MoreFlexibleContinues",
     "type": "extension",
     "name": "More Flexible Continues",
