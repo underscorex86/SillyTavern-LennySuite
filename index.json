@@ -19,7 +19,14 @@
     "name": "Backups Browser",
     "description": "Browse and restore your chat backups from within SillyTavern. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-BackupsBrowser"
-  },  
+  }, 
+  {
+    "id": "ChangeMessageName",
+    "type": "extension",
+    "name": "ChangeMessageName",
+    "description": "Click on the name on a chat message to change it. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-ChangeMessageName"
+  },
   {
     "id": "Codex",
     "type": "extension",
