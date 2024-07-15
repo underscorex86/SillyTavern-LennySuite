@@ -70,6 +70,13 @@
     "url": "https://github.com/LenAnderson/SillyTavern-Export-HTML"
   },
   {
+    "id": "External-Editor",
+    "type": "extension",
+    "name": "External Editor",
+    "description": "Open any textarea in your local text editor. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-ExternalEditor"
+  },
+  {
     "id": "Favicon",
     "type": "extension",
     "name": "Favicon",
