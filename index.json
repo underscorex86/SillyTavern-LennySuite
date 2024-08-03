@@ -28,6 +28,13 @@
     "url": "https://github.com/LenAnderson/SillyTavern-ChangeMessageName"
   },
   {
+    "id": "ChatChat",
+    "type": "extension",
+    "name": "ChatChat",
+    "description": "UNSTABLE, BETA release. Chat about your ongoing chat! H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-ChatChat"
+  },  
+  {
     "id": "Codex",
     "type": "extension",
     "name": "Codex",
