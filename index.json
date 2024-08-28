@@ -189,6 +189,13 @@
     "url": "https://github.com/LenAnderson/SillyTavern-QuickBranchSwitch"
   },
   {
+    "id": "QuickReplyanager",
+    "type": "extension",
+    "name": "QuickReply Manager",
+    "description": "Quickly reply manager. Unlreased. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-QuickReplyManager"
+  },
+  {
     "id": "TriggerCards",
     "type": "extension",
     "name": "Trigger Cards",
