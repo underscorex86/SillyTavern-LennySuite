@@ -28,6 +28,13 @@
     "url": "https://github.com/LenAnderson/SillyTavern-ChangeMessageName"
   },
   {
+    "id": "CharSwitch",
+    "type": "extension",
+    "name": "Char Switch",
+    "description": "Right-Click on Character Panel to quick-switch characters! H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-CharSwitch"
+  },    
+  {
     "id": "ChatChat",
     "type": "extension",
     "name": "ChatChat",
@@ -196,6 +203,20 @@
     "url": "https://github.com/LenAnderson/SillyTavern-QuickReplyManager"
   },
   {
+    "id": "StreamRegex",
+    "type": "extension",
+    "name": "StreamRegex",
+    "description": "Register regex that trigger Quick Replies through automation IDs during response streaming.. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-StreamRegex"
+  },
+  {
+    "id": "TravelScreen",
+    "type": "extension",
+    "name": "Travel Screen",
+    "description": "Trigger an animated line travelling to checkpoints over an image, and set it to music! H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-TravelScreen"
+  },  
+  {
     "id": "TriggerCards",
     "type": "extension",
     "name": "Trigger Cards",
@@ -236,5 +257,12 @@
     "name": "WorldInfo Presets",
     "description": "Presets for multiple active WI books",
     "url": "https://github.com/LenAnderson/SillyTavern-WorldInfoPresets"
+  },
+  {
+    "id": "WorldInfoSwitch",
+    "type": "extension",
+    "name": "WorldInfo Switch",
+    "description": "Right click on World Info icon to quick-toggle lorebooks and entries! H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-WorldInfoSwitch"
   }
 ]
