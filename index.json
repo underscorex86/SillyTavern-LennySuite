@@ -199,8 +199,15 @@
     "id": "QuickReplyanager",
     "type": "extension",
     "name": "QuickReply Manager",
-    "description": "Quickly reply manager. Unlreased. H A I L Lenny.",
+    "description": "Quickly reply manager. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-QuickReplyManager"
+  },
+  {
+    "id": "SendButton",
+    "type": "extension",
+    "name": "Send Button",
+    "description": "Custom send buttons! H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-SendButton"
   },
   {
     "id": "StreamRegex",
