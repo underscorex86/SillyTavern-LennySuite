@@ -112,3 +112,5 @@ https://github.com/LenAnderson/SillyTavern-Favicon
 Add Swipes to User Messages too! Works on the second-to-last user message if the latest response is from the AI. Useful if you're testing out a bunch of prompts.
 https://github.com/LenAnderson/SillyTavern-UserSwipes
 
+### Many More
+There are many many many more extensions lol, so don't count on this description to be up to date. Go ahead and check out the asset repo url or the Len Anderson's master link mentioned up top.
