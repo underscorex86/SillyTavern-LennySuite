@@ -10,7 +10,7 @@
     "id": "ApiKeyHelper",
     "type": "extension",
     "name": "Api Key Helper",
-    "description": "Make it easier to rotate multiple API keys for the same API. H A I L Lenny.",
+    "description": "(Redundant) Make it easier to rotate multiple API keys for the same API. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-ApiKeyHelper"
   },
   {
