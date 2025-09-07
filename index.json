@@ -1,5 +1,19 @@
 [
   {
+    "id": "AlternativeMarkdownConverter",
+    "type": "extension",
+    "name": "Alternative Markdown Converter",
+    "description": "Alternative Markdown Converter. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-AlternativeMarkdownConverter"
+  },
+  {
+    "id": "ApiKeyHelper",
+    "type": "extension",
+    "name": "Api Key Helper",
+    "description": "Make it easier to rotate multiple API keys for the same API. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-ApiKeyHelper"
+  },
+  {
     "id": "AssetRepoManager",
     "type": "extension",
     "name": "Asset Repo Manager",
@@ -19,11 +33,11 @@
     "name": "Backups Browser",
     "description": "Browse and restore your chat backups from within SillyTavern. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-BackupsBrowser"
-  }, 
+  },
   {
     "id": "ChangeMessageName",
     "type": "extension",
-    "name": "ChangeMessageName",
+    "name": "Change Message Name",
     "description": "Click on the name on a chat message to change it. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-ChangeMessageName"
   },
@@ -31,22 +45,43 @@
     "id": "CharSwitch",
     "type": "extension",
     "name": "Char Switch",
-    "description": "Right-Click on Character Panel to quick-switch characters! H A I L Lenny.",
+    "description": "Adds a context menu with last used characters to Character Management button. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-CharSwitch"
-  },    
+  },
   {
     "id": "ChatChat",
     "type": "extension",
     "name": "ChatChat",
-    "description": "UNSTABLE, BETA release. Chat about your ongoing chat! H A I L Lenny.",
+    "description": "Don't use this.",
     "url": "https://github.com/LenAnderson/SillyTavern-ChatChat"
-  },  
+  },
+  {
+    "id": "ChatDrawer",
+    "type": "extension",
+    "name": "Chat Drawer",
+    "description": "Adds a new drawer to the main navigation with the current character's chats. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-ChatDrawer"
+  },
+  {
+    "id": "ChatSearch",
+    "type": "extension",
+    "name": "Chat Search",
+    "description": "Search through all your chats, across characters and SillyTavern accounts. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-ChatSearch"
+  },
   {
     "id": "Codex",
     "type": "extension",
     "name": "Codex",
     "description": "Requires File Explorer extension and Files plugin. Allows highlighting WI entries in Chat, creating clickable maps, and more. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-Codex"
+  },
+  {
+    "id": "ComfyUI",
+    "type": "extension",
+    "name": "ComfyUI",
+    "description": "A copy of the Stable Diffusion extension modified to use ComfyUI. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-ComfyUI"
   },
   {
     "id": "CssSnippets",
@@ -63,6 +98,13 @@
     "url": "https://github.com/LenAnderson/SillyTavern-CustomCodeLanguages"
   },
   {
+    "id": "CustomModels",
+    "type": "extension",
+    "name": "Custom Models",
+    "description": "Add custom model names to OpenAI, Claude, and Google/Gemini connections in SillyTavern. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-CustomModels"
+  },
+  {
     "id": "CustomTitle",
     "type": "extension",
     "name": "Custom Title",
@@ -77,6 +119,20 @@
     "url": "https://github.com/LenAnderson/SillyTavern-DiscordHomeLink"
   },
   {
+    "id": "Everything",
+    "type": "extension",
+    "name": "Everything",
+    "description": "Access every exported variable and function from SillyTavern and installed extensions. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-Everything"
+  },
+  {
+    "id": "EvilSlashCommand",
+    "type": "extension",
+    "name": "Evil Slash Command",
+    "description": "Adds /js slash command to evaluate JavaScript. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-EvilSlashCommand"
+  },
+  {
     "id": "Export-HTML",
     "type": "extension",
     "name": "Export HTML",
@@ -84,7 +140,14 @@
     "url": "https://github.com/LenAnderson/SillyTavern-Export-HTML"
   },
   {
-    "id": "External-Editor",
+    "id": "ExtensionManager",
+    "type": "extension",
+    "name": "Extension Manager",
+    "description": "Extension settings, management of installed extensions and plugins, and extension and plugin catalogue in a tabbed view right in the extension drawer. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-ExtensionManager"
+  },
+  {
+    "id": "ExternalEditor",
     "type": "extension",
     "name": "External Editor",
     "description": "Open any textarea in your local text editor. H A I L Lenny.",
@@ -101,9 +164,16 @@
     "id": "FileExplorer",
     "type": "extension",
     "name": "File Explorer",
-    "description": "File Explorer to browse and pick files from SillyTavern directories. H A I L Lenny.",
+    "description": "File Explorer for SillyTavern directories. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-FileExplorer"
-  },  
+  },
+  {
+    "id": "FilesPluginApi",
+    "type": "extension",
+    "name": "Files Plugin Api",
+    "description": "API class and slash commands to work with the Files server plugin. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-FilesPluginApi"
+  },
   {
     "id": "GetContext",
     "type": "extension",
@@ -112,10 +182,17 @@
     "url": "https://github.com/LenAnderson/SillyTavern-GetContext"
   },
   {
+    "id": "GoReadABook",
+    "type": "extension",
+    "name": "Go Read A Book",
+    "description": "Read your chat / story like a book. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-GoReadABook"
+  },
+  {
     "id": "GroupExpressions",
     "type": "extension",
     "name": "Group Expressions",
-    "description": "Enable multiple expression sprites in Group Chats",
+    "description": "Enable multiple expression sprites in Group Chats. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-GroupExpressions"
   },
   {
@@ -126,11 +203,11 @@
     "url": "https://github.com/LenAnderson/SillyTavern-InputHistory"
   },
   {
-    "id": "LandingPage",
+    "id": "Keyboard",
     "type": "extension",
-    "name": "Landing Page",
-    "description": "Customize the ST Landing page. H A I L Lenny.",
-    "url": "https://github.com/LenAnderson/SillyTavern-LandingPage"
+    "name": "Keyboard",
+    "description": "Assign custom keyboard shortcuts (QRs, built-in actions) and disable default shortcuts. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-Keyboard"
   },
   {
     "id": "LALib",
@@ -140,10 +217,24 @@
     "url": "https://github.com/LenAnderson/SillyTavern-LALib"
   },
   {
+    "id": "LATheme",
+    "type": "extension",
+    "name": "LA Theme",
+    "description": "Lenny's Theme! H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-LATheme"
+  },
+  {
+    "id": "LandingPage",
+    "type": "extension",
+    "name": "Landing Page",
+    "description": "Customize the ST Landing page. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-LandingPage"
+  },
+  {
     "id": "LocalStorageHelper",
     "type": "extension",
     "name": "Local Storage Helper",
-    "description": "A quick way to export and import your browser's localStorage. H A I L Lenny.",
+    "description": "A quick way to export and import your browser's localStorage (i.e., the settings that are saved only in your browser and are not applied when you open SillyTavern in a different browser or on a different device.) H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-LocalStorageHelper"
   },
   {
@@ -152,6 +243,13 @@
     "name": "LogoutButton",
     "description": "Adds a logout button to the top menu. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-LogoutButton"
+  },
+  {
+    "id": "Lore-Variables",
+    "type": "extension",
+    "name": "Lore Variables",
+    "description": "Variable manager for lorebook / world info entries. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-Lore-Variables"
   },
   {
     "id": "MessageActions",
@@ -171,8 +269,15 @@
     "id": "MessageVariables",
     "type": "extension",
     "name": "Message Variables",
-    "description": "Adds Variables specific to a message and swipe. H A I L Lenny.",
+    "description": "Variables specific to a message and swipe. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-MessageVariables"
+  },
+  {
+    "id": "Mistake",
+    "type": "extension",
+    "name": "Mistake",
+    "description": "Well, that was a catastrophic mistake. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-Mistake"
   },
   {
     "id": "MoreFlexibleContinues",
@@ -185,8 +290,43 @@
     "id": "NavigateChat",
     "type": "extension",
     "name": "Navigate Chat",
-    "description": "Adds slash commands to help \"replay\" a chat. H A I L Lenny.",
+    "description": "Adds slash commands to navigate through existing chat messages. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-NavigateChat"
+  },
+  {
+    "id": "NotJustButtons",
+    "type": "extension",
+    "name": "Not Just Buttons",
+    "description": "Display Quick Replies as dropdowns or toggles. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-NotJustButtons"
+  },
+  {
+    "id": "NovelMode",
+    "type": "extension",
+    "name": "Novel Mode",
+    "description": "Edit the whole chat as a single document. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-NovelMode"
+  },
+  {
+    "id": "Packager",
+    "type": "extension",
+    "name": "Packager",
+    "description": "Creates packages of characters and chats. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-Packager"
+  },
+  {
+    "id": "ParallaxBackgrounds",
+    "type": "extension",
+    "name": "Parallax Backgrounds",
+    "description": "Makes yer wallpaper bounce up n down. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-ParallaxBackgrounds"
+  },
+  {
+    "id": "PluginManager",
+    "type": "extension",
+    "name": "Plugin Manager",
+    "description": "Install, update, and uninstall server plugins from the client. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-PluginManager"
   },
   {
     "id": "QuickBranchSwitch",
@@ -196,11 +336,39 @@
     "url": "https://github.com/LenAnderson/SillyTavern-QuickBranchSwitch"
   },
   {
-    "id": "QuickReplyanager",
+    "id": "QuickRepliesDrawer",
+    "type": "extension",
+    "name": "Quick Replies Drawer",
+    "description": "Gives QRs its own Top Menu drawer like they deserve! H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-QuickRepliesDrawer"
+  },
+  {
+    "id": "QuickReplyManager",
     "type": "extension",
     "name": "QuickReply Manager",
     "description": "Quickly reply manager. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-QuickReplyManager"
+  },
+  {
+    "id": "QuickReplySwitch",
+    "type": "extension",
+    "name": "Quick Reply Switch",
+    "description": "Easily toggle global and chat-specific QuickReply sets. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-QuickReplySwitch"
+  },
+  {
+    "id": "QuipQuiver",
+    "type": "extension",
+    "name": "Quip Quiver",
+    "description": "Quick access to little blocks of text to paste into the currently focused text input. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-QuipQuiver"
+  },
+  {
+    "id": "RegexSlash",
+    "type": "extension",
+    "name": "Regex Slash",
+    "description": "Adds a /regex slash command to do regex replaces on any textarea in SillyTavern. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-RegexSlash"
   },
   {
     "id": "SendButton",
@@ -210,11 +378,53 @@
     "url": "https://github.com/LenAnderson/SillyTavern-SendButton"
   },
   {
+    "id": "SlashCommandChanges",
+    "type": "extension",
+    "name": "Slash Command Changes",
+    "description": "Toast new / removed / changed commands. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-SlashCommandChanges"
+  },
+  {
+    "id": "STAHP-Extension",
+    "type": "extension",
+    "name": "STAHP Extension",
+    "description": "Control ST from outside ST",
+    "url": "https://github.com/LenAnderson/SillyTavern-STAHP-Extension"
+  },
+  {
     "id": "StreamRegex",
     "type": "extension",
     "name": "StreamRegex",
-    "description": "Register regex that trigger Quick Replies through automation IDs during response streaming.. H A I L Lenny.",
+    "description": "Register regex that trigger Quick Replies through automation IDs during response streaming. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-StreamRegex"
+  },
+  {
+    "id": "SwipeAnnotations",
+    "type": "extension",
+    "name": "Swipe Annotations",
+    "description": "Highlight text in your swipes, add notes, and mark swipes as favorites. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-SwipeAnnotations"
+  },
+  {
+    "id": "SwipeCombiner",
+    "type": "extension",
+    "name": "Swipe Combiner",
+    "description": "Combine multiple swipes into one. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-SwipeCombiner"
+  },
+  {
+    "id": "ToastHistory",
+    "type": "extension",
+    "name": "Toast History",
+    "description": "Keep a history of all toast notifications. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-ToastHistory"
+  },
+  {
+    "id": "Tooltips",
+    "type": "extension",
+    "name": "Tooltips",
+    "description": "Show tooltips immediately. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-Tooltips"
   },
   {
     "id": "TravelScreen",
@@ -222,7 +432,7 @@
     "name": "Travel Screen",
     "description": "Trigger an animated line travelling to checkpoints over an image, and set it to music! H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-TravelScreen"
-  },  
+  },
   {
     "id": "TriggerCards",
     "type": "extension",
@@ -231,11 +441,18 @@
     "url": "https://github.com/LenAnderson/SillyTavern-TriggerCards"
   },
   {
-    "id": "Tooltips",
+    "id": "UserSettingsTest",
     "type": "extension",
-    "name": "Tooltips",
-    "description": "Show tooltips immediately. H A I L Lenny.",
-    "url": "https://github.com/LenAnderson/SillyTavern-Tooltips"
+    "name": "User Settings Test",
+    "description": "Don't use this! Testing a different user settings layout. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-UserSettingsTest"
+  },
+  {
+    "id": "UserSwipes",
+    "type": "extension",
+    "name": "User Swipes",
+    "description": "Enable swiping on user messages (last or second to last message in chat). H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-UserSwipes"
   },
   {
     "id": "Variable-Viewer",
@@ -252,6 +469,13 @@
     "url": "https://github.com/LenAnderson/SillyTavern-VideoBackgrounds"
   },
   {
+    "id": "Wizard",
+    "type": "extension",
+    "name": "Wizard",
+    "description": "Adds STscript commands to show a configurable Wizard to guide the user step-by-step through a list of pages. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-Wizard"
+  },
+  {
     "id": "WordFrequency",
     "type": "extension",
     "name": "Word Frequency",
@@ -259,10 +483,31 @@
     "url": "https://github.com/LenAnderson/SillyTavern-WordFrequency"
   },
   {
+    "id": "WorldInfoDrawer",
+    "type": "extension",
+    "name": "World Info Drawer",
+    "description": "Moves the World Info into its own drawer in the main navigation. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-WorldInfoDrawer"
+  },
+  {
+    "id": "WorldInfoInfo",
+    "type": "extension",
+    "name": "World Info Info",
+    "description": "See which WorldInfo entries were active in the last generated message. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-WorldInfoInfo"
+  },
+  {
+    "id": "WorldInfoMacros",
+    "type": "extension",
+    "name": "World Info Macros",
+    "description": "Adds macros for all WorldInfo entries by UID and Title/Memo. H A I L Lenny.",
+    "url": "https://github.com/LenAnderson/SillyTavern-WorldInfoMacros"
+  },
+  {
     "id": "WorldInfoPresets",
     "type": "extension",
     "name": "WorldInfo Presets",
-    "description": "Presets for multiple active WI books",
+    "description": "Presets for multiple active WI books. H A I L Lenny.",
     "url": "https://github.com/LenAnderson/SillyTavern-WorldInfoPresets"
   },
   {
